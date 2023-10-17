@@ -34,7 +34,7 @@ nav {
 .hero {
   height: 100vh;
   position: relative;
-  background-image: url("/Assets/Banner.jpg");
+  background-image: url("Banner.jpg");
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
